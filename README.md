@@ -1,8 +1,8 @@
 # Portfolio
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/muditgupta68/Codewayy_python_series)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/muditgupta68)
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/muditgupta68/Codewayy_python_series)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/muditgupta68/Portfolio/tree/main/Python)
 
 ##  💻 Introduction
 ◖ I am a student of **Amity School of Engineering And Technology**. Currently persuing B.tech C.S.E◗
