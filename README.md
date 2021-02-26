@@ -1,15 +1,15 @@
 # Portfolio
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/muditgupta68)
-
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/muditgupta68/Portfolio/tree/main/Python)
+
+[![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://github.com/muditgupta68/Portfolio/tree/main/webDev)
 
 ##  💻 Introduction
 ◖ I am a student of **Amity School of Engineering And Technology**. Currently persuing B.tech C.S.E◗
 
-◖**My Skills:**           Python (Basics) ◗
+◖**My Skills:**           Python (Basics), Web-Developer (HTML/CSS) ◗
 
-◖**Working OS:**          Windows/Linux◗
+◖**Working OS:**          Windows◗
 
 ◖**Software environment** Git/Github ◗
 
